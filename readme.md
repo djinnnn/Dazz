@@ -12,7 +12,7 @@ A browser fuzzer that combines grammar-based HTML generation with runtime-feedba
 ## Installation
 
 ```shell
-git clone <repo-url> dazz
+git clone https://github.com/djinnnn/Dazz.git
 cd dazz
 pip3 install selenium==3.141.0 urllib3==1.26.5
 ```
